@@ -1,1 +1,1 @@
-# NewGoogleServerPajidada
+# -newmethodgoogle
